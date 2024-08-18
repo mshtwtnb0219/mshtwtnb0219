@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center;">
   Activity
-  <img src="https://github.com/user-attachments/assets/7e5eab34-bdaf-4180-ba8d-8877494eb10b" alt="parrot" style="margin-left: 10px;">
+  <img src="https://github.com/user-attachments/assets/a741d9e2-a78d-48fa-a31b-010875e42c48" alt="parrot" style="margin-left: 10px;">
 </h1>
 
 <div align="center">
