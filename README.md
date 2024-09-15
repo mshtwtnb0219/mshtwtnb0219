@@ -1,7 +1,6 @@
 <h1 style="display: flex; align-items: center;">
   Activity
-  <img src="https://github.com/user-attachments/assets/deb30325-2e45-43d2-b27d-048410d2c457" alt="parrot" style="margin-left: 10px;">
-  <img src="https://github.com/user-attachments/assets/0740bbe3-85f5-42e5-9946-b46f11e0228b" alt="parrot" style="margin-left: 5px;">
+  <img src="https://github.com/user-attachments/assets/34d7e207-fe40-4247-b820-b6a81e3575f9" alt="parrot" style="margin-left: 5px;">
 </h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshtwtnb0219&theme=gruvbox)
