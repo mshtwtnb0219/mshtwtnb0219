@@ -22,6 +22,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mshtwtnb0219&count_private=true&show_icons=true&show_icons=true&theme=cobalt" />
 </p>
 
+<img alt="github stats" height="178.5px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshtwtnb0219&theme=cobalt" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshtwtnb0219&theme=cobalt)
 
