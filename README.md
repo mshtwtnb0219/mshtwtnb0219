@@ -10,5 +10,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshtwtnb0219&theme=gruvbox)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=mshtwtnb0219&theme=gruvbox)
