@@ -5,8 +5,11 @@
 </h1>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mshtwtnb0219&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mshtwtnb0219&theme=gruvbox)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshtwtnb0219&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mshtwtnb0219&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshtwtnb0219&theme=gruvbox)
 
